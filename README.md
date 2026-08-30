@@ -104,12 +104,12 @@ I'm continuously strengthening my understanding of:
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Maganpreet-Singh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maganpreet-Singh&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Maganpreet-Singh&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Maganpreet-Singh&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Maganpreet-Singh&theme=tokyonight&hide_border=true" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Maganpreet-Singh&hide=prs,issues&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub Contributions" />
 </p>
 
 ## 🤝 Let's Connect
